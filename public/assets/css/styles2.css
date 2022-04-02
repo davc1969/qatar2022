@@ -128,6 +128,8 @@ main > article > p {
 
 main > img {
     height: 50vh;
+    opacity: 1;
+    z-index: 1;
 }
 
 main > h3 {
@@ -140,6 +142,8 @@ main > h3 {
     text-align: center;
     margin-top: 2vh;
     padding-top: 3vh;
+    opacity: 1;
+    z-index: 1;
 }
 
 
